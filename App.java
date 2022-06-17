@@ -1,9 +1,4 @@
-package com.wipro.apps;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
 	
